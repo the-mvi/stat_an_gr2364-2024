@@ -1,0 +1,36 @@
+{
+  "default_kernel":["R", "Python 3", "python", "matlab", "octave"],
+  "settings":{
+      "max_participants_in_group": 1,
+      "need_to_check_impersonality": false,
+      "points":[
+        "Цель работы",
+        "Основные теоретические положения",
+        "Постановка задачи",
+        "Выполнение работы",
+        "Выводы"
+        ]
+  },
+  "works":{
+    "task1": {
+      "deadline":"2023-09-30",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task2": {
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task3": {
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task4": {
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    },
+    "task5": {
+      "deadline":"2023-12-24",
+      "kernel":["R", "Python 3", "python", "octave", "matlab", "sage"]
+    }
+  }
+}
